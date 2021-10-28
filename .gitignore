@@ -1,0 +1,8 @@
+node_modules
+.DS_Store
+dist
+build
+icon-build
+icns-build
+doc
+/ffmpeg-mac
